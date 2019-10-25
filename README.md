@@ -1,6 +1,21 @@
-## Welcome to My personal website
+# ![alt text](member2.png)
 
-A Biomedical Engineering studentat the Cairo university.
-Interested in: Machine learning, Bioinformatics and Programming
+## Name: Mohammed Almotasem :skull: :smiling_imp:
+### Birth Date: 17/6/98 :gemini:
+### e-mail: mohammed.almotasem55@googlemail.com :crown:
+### [GitHub profile](https://github.com/Almotasem100)
 
-Works on a machine learning project concerning data for Echocardiogram Sruvival to predict whether a patient dies within a year or survives.
+### Hobbies:
+
+Programming, learning Embedded systems :computer:
+
+Listenning music, watching movies  :saxophone: :movie_camera:
+
+Playing Computer games, Fighting :tada: :alien:
+
+### Education:
+
+Cairo University, Faculty of Engineering, Systems and Biomedical Department :mortar_board:
+
+Taking few courses online :crystal_ball:
+
