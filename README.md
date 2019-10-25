@@ -1,6 +1,6 @@
 
 
-###  A BIomedical Engineering Student at Cairo university
+###  A Biomedical Engineering Student at Cairo university
 
 
 ### e-mail: mohammed.almotasem55@googlemail.com
