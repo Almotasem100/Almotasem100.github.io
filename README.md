@@ -1,15 +1,14 @@
 
 
-## Cairo University, Faculty of Engineering, Systems and Biomedical Department
-### Took Training courses in Machine learning and Embeedded systems
+###  A BIomedical Engineering Student at Cairo university
 
 
 ### e-mail: mohammed.almotasem55@googlemail.com
 ### [GitHub profile](https://github.com/Almotasem100)
 
 
-### Projects:
-
+### Projects and Education:
+Took Training courses in Medical Equipment and Embeedded systems
 Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not
 
 
