@@ -1,12 +1,12 @@
 
-## Mohammed Almotasem 
+
+## Cairo University, Faculty of Engineering, Systems and Biomedical Department
+### Took Training courses in Machine learning and Embeedded systems
+
+
 ### e-mail: mohammed.almotasem55@googlemail.com
 ### [GitHub profile](https://github.com/Almotasem100)
 
-### Education:
-
-Cairo University, Faculty of Engineering, Systems and Biomedical Department
-Took Training courses in Machine learning and Embeedded systems
 
 ### Projects:
 
