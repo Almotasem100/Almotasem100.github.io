@@ -1,23 +1,41 @@
+# Welcome To My Personal Website
+## Mohammed Almotasem
+<img src="me.jpg" width="250" height="250" />
 
-
-###  A Biomedical Engineering Student at Cairo university
-
-
+####  A Biomedical Engineering student at Cairo University. 
+#### graduation year: 2021
+#### Born in 1998
 ### e-mail: mohammed.almotasem55@googlemail.com
-### [GitHub profile](https://github.com/Almotasem100)
+#### looking forward to work in Bioinformatics field
+#### Interested in machine leaning and programming
 
+## Projects and Education:
 
-### Projects and Education:
 Took Training courses in Medical Equipment and Embeedded systems
 Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not
 
 
+## Skills :
+- Technical Skills:
+
+	- Programmin languages: c++, c, python, R
+    - Web developing
+    - Problem solving
+    - Embedded systems crafting
+
+
+- Soft Skills:
+
+    - Presentation Skills
+    - Negotiatian Skills
+    - Team working
+    - Leadershipping
+    - Time managing
+
 ### Hobbies:
-
-Programming, Problem solving and Engineerin projects crafting
-
-Listenning music, watching movies 
-
-Playing Computer games, Fighting 
+Listenning music, watching movies and Computer gaming
 
 
+# To get in touch:
+
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/mohammed.almotasem)    [<img src="linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/mohammed-almotasem-45a726177/)    [<img src="twitter.png" width="60" height="60" />](https://twitter.com/M_Almotasem55)  [<img src="github.png" width="60" height="60" />](https://github.com/Almotasem100)
