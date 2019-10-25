@@ -1,21 +1,24 @@
-# ![alt text](member2.png)
 
-## Name: Mohammed Almotasem :skull: :smiling_imp:
-### Birth Date: 17/6/98 :gemini:
-### e-mail: mohammed.almotasem55@googlemail.com :crown:
+## Mohammed Almotasem 
+### e-mail: mohammed.almotasem55@googlemail.com
 ### [GitHub profile](https://github.com/Almotasem100)
+
+### Education:
+
+Cairo University, Faculty of Engineering, Systems and Biomedical Department
+Took Training courses in Machine learning and Embeedded systems
+
+### Projects:
+
+Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not
+
 
 ### Hobbies:
 
 Programming, learning Embedded systems :computer:
 
-Listenning music, watching movies  :saxophone: :movie_camera:
+Listenning music, watching movies 
 
-Playing Computer games, Fighting :tada: :alien:
+Playing Computer games, Fighting 
 
-### Education:
-
-Cairo University, Faculty of Engineering, Systems and Biomedical Department :mortar_board:
-
-Taking few courses online :crystal_ball:
 
