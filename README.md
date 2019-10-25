@@ -15,7 +15,7 @@ Working on a machine learning project using the biostatistics fundementals that 
 
 ### Hobbies:
 
-Programming, learning Embedded systems :computer:
+Programming, Problem solving and Engineerin projects crafting
 
 Listenning music, watching movies 
 
