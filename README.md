@@ -6,6 +6,7 @@
 #### graduation year: 2021
 #### Born in 1998
 ### e-mail: mohammed.almotasem55@googlemail.com
+### [My CV](https://drive.google.com/file/d/1Gc6SpsvlYG9Fpmco_Da8JnqnQtPYCiIo/view?usp=sharing)
 #### looking forward to work in Bioinformatics field
 #### Interested in machine leaning and programming
 
