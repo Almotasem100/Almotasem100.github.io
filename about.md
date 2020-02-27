@@ -31,7 +31,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Chronic Kidney disease predection</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://almotasem100.github.io//chronic-kidney-disease/">Chronic Kidney disease predection</a></li>
+<!-- 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
 </ul>
