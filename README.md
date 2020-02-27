@@ -13,7 +13,7 @@
 ## Projects and Education:
 
 Took Training courses in Medical Equipment and Embeedded systems
-Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not. [check details](https://marwaomar.github.io/Marwa-Abdalla//chronic-kidney-disease/)
+Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not. [check details](https://almotasem100.github.io//chronic-kidney-disease/)
 
 
 ## Skills :
