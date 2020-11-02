@@ -30,11 +30,11 @@ Working on a machine learning project using the biostatistics fundementals that 
     - Presentation Skills
     - Negotiatian Skills
     - Team working
-    - Leadershipping
     - Time managing
+    - Leadershipping
 
 ### Hobbies:
-Listenning music, watching movies and Computer gaming
+Listenning music, watching movies and Computer gaming.
 
 
 # To get in touch:
