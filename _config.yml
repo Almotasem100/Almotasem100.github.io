@@ -7,7 +7,7 @@ description: A blog about Software and Development projects
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: fasle
 picture: assets/images/profile.jpg
 
 # your site color theme, false to light theme
