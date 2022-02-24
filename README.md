@@ -1,42 +1,69 @@
-# Welcome To My Personal Website
-## Mohammed Almotasem
-<img src="me2.jpg" width="250" height="250" />
+<p align="center">
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+</p>
 
-####  A Biomedical Engineering student at Cairo University. 
-#### graduation year: 2021
-#### Born in 1998
-### e-mail: mohammed.almotasem55@googlemail.com
-### [My CV](https://drive.google.com/file/d/1Gc6SpsvlYG9Fpmco_Da8JnqnQtPYCiIo/view?usp=sharing)
-#### looking forward to work in Bioinformatics field
-#### Interested in machine leaning and programming
+<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
 
-## Projects and Education:
+***
 
-Took Training courses in Medical Equipment and Embeedded systems
-Working on a machine learning project using the biostatistics fundementals that aims to predict the conditions of a patient that had a heart attack whether he will survive for a year or not. [check details](https://almotasem100.github.io//chronic-kidney-disease/)
+<p align="center">
+    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    |
+    <b><a href="README.md#setup">Setup</a></b>
+    |
+    <b><a href="README.md#settings">Settings</a></b>
+    |
+    <b><a href="README.md#how-to">How to</a></b>
+</p>
 
+<p align="center">
+    Light and Dark themes.
+</p>
 
-## Skills :
-- Technical Skills:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+</p>
 
-	- Programmin languages: c++, c, python, R
-    - Web developing
-    - Problem solving
-    - Embedded systems crafting
+## What has inside
 
+- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
+- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
+- No JS. :sunglasses:
 
-- Soft Skills:
+## Setup
 
-    - Presentation Skills
-    - Negotiatian Skills
-    - Team working
-    - Time managing
-    - Leadershipping
+0. :star: to the project. :metal:
+1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
+3. Write some posts :bowtie:
 
-### Hobbies:
-Listenning music, watching movies and Computer gaming.
+If you want to test locally on your machine, do the following steps also:
 
+1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
+2. Clone the forked repo on your machine
+3. Enter the cloned folder via terminal and run `bundle install`
+4. Then run `bundle exec jekyll serve`
+5. Open it in your browser: `http://localhost:4000`
+6. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
 
-# To get in touch:
+## Settings
 
-[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/mohammed.almotasem)    [<img src="linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/mohammed-almotasem-45a726177/)    [<img src="twitter.png" width="60" height="60" />](https://twitter.com/M_Almotasem55)  [<img src="github.png" width="60" height="60" />](https://github.com/Almotasem100)
+You must fill some informations on `_config.yml` to customize your site.
+
+```
+name: John Doe
+bio: 'A Man who travels the world eating noodles'
+picture: 'assets/images/profile.jpg'
+...
+
+and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+```
+
+## How To?
+
+Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+
+---
+## License
+
+[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
