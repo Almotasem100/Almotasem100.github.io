@@ -25,6 +25,7 @@ layout: page
 	<li>AI(Machine-DeepLearning)</li>
 	<li>EmbeddedSystems and Its interface</li>
 	<li>C++, C, Python, Java, JS, R, Matlab</li>
+	<li>Problem Solving</li>
 	<li>MySQL - MongoDB</li>
 	<li>Git, MicrosoftOffice</li>
 </ul>

@@ -9,6 +9,16 @@ title: Projects
             <h3 class="title">Huffman Algorithm Implementation</h3>
         </a>
     </div>
+    {% for post in site.posts %}
+        {% if post.projects %}
+            <div class="item {% if false %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
     <div class="item">
         <a class="url" target="_blank" href="https://github.com/Almotasem100/Clinics-Reservation-Website">
             <aside><time datetime="2018-07-07">Dec 2019</time></aside>
@@ -39,14 +49,4 @@ title: Projects
             <h3 class="title">Temperature Controller Embedded System</h3>
         </a>
     </div>
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if false %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
 </section>
