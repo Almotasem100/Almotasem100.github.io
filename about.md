@@ -6,7 +6,7 @@ layout: page
 
 <h2>About me:</h2>
 
-<p>A Biomedical Engineer seeking a position to utilize my skills and abilities in the Software Development field. Eager to learn quickly with strong communication, organizational skills, and team playing. Can work under stress and meet deadlines. I have experience in working in diverse enviroments and majors like AI, Web development and Embedded Systems. And try to increase and enhance my skills by working on any available projects.</p>
+<p>A Biomedical Engineer seeking a position to utilize my skills and abilities in the Software Development field. Eager to learn quickly with strong communication, organizational skills, and team playing. Can work under stress and meet deadlines. I have experience in working in diverse environments and majors like AI, Web development and Embedded Systems. And try to increase and enhance my skills by working on any available projects.</p>
 
 <h2>Experience & Education</h2>
 
@@ -27,7 +27,7 @@ layout: page
 	<li>C++, C, Python, Java, JS, R, Matlab</li>
 	<li>Problem Solving</li>
 	<li>MySQL - MongoDB</li>
-	<li>Git, MicrosoftOffice</li>
+	<li>Git, MicrosoftOffice, LaTex</li>
 </ul>
 <h4>Soft Skills</h4>
 <ul class="skill-list">
