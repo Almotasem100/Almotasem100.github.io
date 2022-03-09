@@ -8,7 +8,7 @@ pagination:
 ---
 <section class="list">
 	<h2 class="text-align= center;">Papers & Researches:</h2>
-	{% if site.posts.size == 0 %}
+	<!-- {% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.pagination.enabled %}
 		{% for post in paginator.posts %}
@@ -28,5 +28,17 @@ pagination:
 				{% endif %}
 			{% endif %}
 		{% endfor %}
-	{% endif %}
+	{% endif %} -->
+	<div class="item">
+        <a class="url" target="_blank" href="https://drive.google.com/file/d/1fOsIzzBFBDEs2GQkMw8pM88q8nGi3cWA/view?usp=sharing">
+            <aside><time datetime="2018-07-07">May 2018</time></aside>
+            <h3 class="title">Arms Race as application of DE.</h3>
+        </a>
+    </div>
+    <div class="item">
+        <a class="url" target="_blank" href="https://drive.google.com/file/d/1YhB2j0Na3Kh1lD9R07wJhN64EExzOtfP/view?usp=sharing">
+            <aside><time datetime="2018-07-07">Dec 2019</time></aside>
+            <h3 class="title">BioInformatics Introductoin</h3>
+        </a>
+    </div>
 </section>
