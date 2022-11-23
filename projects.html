@@ -3,16 +3,12 @@ layout: page
 title: Projects
 ---
 <section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if false %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
+    <div class="item">
+        <a class="url" target="_blank" href="https://github.com/Almotasem100/Medical-Report-Analyzer">
+            <aside><time datetime="2018-07-07">July 2021</time></aside>
+            <h3 class="title">Medical Report Analyzer(GP)</h3>
+        </a>
+    </div>
     <div class="item">
         <a class="url" target="_blank" href="https://github.com/Almotasem100/Temperature-Controller">
             <aside><time datetime="2018-07-07">June 2021</time></aside>
@@ -37,6 +33,16 @@ title: Projects
             <h3 class="title">Computer Graphics Projects</h3>
         </a>
     </div>
+    {% for post in site.posts %}
+        {% if post.projects %}
+            <div class="item {% if false %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
     <div class="item">
         <a class="url" target="_blank" href="https://github.com/Almotasem100/Clinics-Reservation-Website">
             <aside><time datetime="2018-07-07">Dec 2019</time></aside>
